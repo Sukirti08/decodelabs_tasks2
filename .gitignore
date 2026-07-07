@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+copy_bulk_batch_requests.jsonl
+copy_bulk_results.json
+
+# Ignore Project 1 files in the root ONLY (do not ignore Project 2 subfolder files)
+/chatbot.py
+/PROJECT_DOCUMENTATION.md
+/requirements.txt
+/README.md
