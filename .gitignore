@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 copy_bulk_batch_requests.jsonl
 copy_bulk_results.json
+pdf/
 
 # Ignore Project 1 files in the root
 /chatbot.py
