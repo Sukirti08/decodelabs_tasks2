@@ -5,8 +5,7 @@ __pycache__/
 copy_bulk_batch_requests.jsonl
 copy_bulk_results.json
 
-# Ignore Project 1 files in the root ONLY (do not ignore Project 2 subfolder files)
+# Ignore Project 1 files in the root
 /chatbot.py
 /PROJECT_DOCUMENTATION.md
 /requirements.txt
-/README.md
